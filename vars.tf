@@ -1,6 +1,6 @@
 variable "AWS_REGION" {
   type    = string
-  default = "us-east-1"
+  default = "Ca-Central-1"
 }
 
 variable "vpc_cidr" {
